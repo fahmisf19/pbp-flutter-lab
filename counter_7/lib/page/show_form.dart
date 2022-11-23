@@ -1,7 +1,6 @@
-import 'package:counter_7/form.dart' as form;
+import 'package:counter_7/page/form.dart' as form;
 import 'package:flutter/material.dart';
-import 'package:counter_7/drawer.dart';
-import 'package:counter_7/main.dart';
+import 'package:counter_7/utils/drawer.dart';
 
 class MyShowFormPage extends StatefulWidget {
   const MyShowFormPage({super.key});

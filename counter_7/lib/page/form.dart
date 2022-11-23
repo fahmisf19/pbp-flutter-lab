@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:counter_7/main.dart';
-import 'package:counter_7/show_form.dart';
-import 'package:counter_7/drawer.dart';
+import 'package:counter_7/page/show_form.dart';
+import 'package:counter_7/utils/drawer.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
 
